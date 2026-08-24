@@ -11,7 +11,7 @@ Le récepteur radio traditionnel utilise une architecture superhétérodyne depu
 1. **Antenne** : Capture le signal radio
 2. **Filtre d'entrée** : Sélection préliminaire des fréquences
 3. **Étage RF (Radio Frequency)** : Amplification et filtrage haute fréquence
-4. **Méilleur (Mixer)** : Translation en fréquence intermédiaire
+4. **Mélangeur (Mixer)** : Translation en fréquence intermédiaire
 5. **Filtre IF (Intermediate Frequency)** : Sélection du canal
 6. **Détecteur** : Extraction du signal audio/vidéo
 7. **Étage AF (Audio Frequency)** : Amplification audio
